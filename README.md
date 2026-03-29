@@ -1,6 +1,7 @@
 🌤️ Weather Prediction System
 
 📌 Overview
+
 The Weather Prediction System is a web-based application that provides real-time weather information for any city worldwide. It helps users quickly access accurate weather data such as temperature, humidity, wind speed, and overall conditions through a clean and interactive interface.
 
 This project is built using Python, Streamlit, and the OpenWeatherMap API, enabling users to make informed decisions for travel, daily activities, and planning.
@@ -21,7 +22,7 @@ Requests – API integration
 OpenWeatherMap API – Weather data source
 HTML/CSS (via Streamlit) – UI styling
 
-Weather Prediction System
+Weather Prediction System/
 │
 ├── app.py                # Main application file
 ├── requirements.txt     # Required libraries
